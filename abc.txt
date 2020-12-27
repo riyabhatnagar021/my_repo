@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 my name is barry alan and i amthe fastest man alive.?? Guess the series name.....?
+=======
+HELLO hi
+Bye world
+>>>>>>> 20e1abbf23b4a153b7a10d1037b4b2814ea39d15
