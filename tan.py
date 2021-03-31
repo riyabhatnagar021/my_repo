@@ -1,0 +1,1 @@
+sin square + cos sqare =1
